@@ -1,0 +1,1 @@
+import InfoPage from './InfoPage'; export default function Contact(){return <InfoPage title="Let’s build better events"><p>Have a question or partnership idea? We would love to hear from you.</p><a className="primary" href="mailto:hello@hospora.com">hello@hospora.com</a></InfoPage>}
